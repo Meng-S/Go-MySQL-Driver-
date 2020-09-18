@@ -1,1 +1,1 @@
-# Go-MySQL-Driver-
+# Go-MySQL-Driver-中文
