@@ -26,4 +26,4 @@
 ## 特点
 * 轻巧[快速]https://github.com/go-sql-driver/sql-benchmark "golang MySQL-Driver performance")
 * 纯原生golang实现
-* 通过 TCP/IPv4, TCP/IPv6, Unix domain sockets or [custom protocols](https://godoc.org/github.com/go-sql-driver/mysql#DialFunc)连接
+* 通过 TCP/IPv4, TCP/IPv6, Unix domain sockets 和 [custom protocols](https://godoc.org/github.com/go-sql-driver/mysql#DialFunc)连接
