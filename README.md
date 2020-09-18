@@ -3,7 +3,7 @@
 ![Go-MySQL-Driver logo](https://raw.github.com/wiki/go-sql-driver/mysql/gomysql_m.png "Golang Gopher holding the MySQL Dolphin")
 ---------------------------------------
 ---------------------------------------
-  * [Features](#features)
+  * [特点](#特点)
   * [Requirements](#requirements)
   * [Installation](#installation)
   * [Usage](#usage)
@@ -23,3 +23,4 @@
   * [License](#license)
 
 ---------------------------------------
+#特点
