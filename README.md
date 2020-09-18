@@ -1,4 +1,4 @@
-# Go-MySQL-Driver-中文
+#  Go-MySQL-Driver-中文
 一个用于Go [database/sql](https://golang.org/pkg/database/sql/) 包的MySQL驱动程序
 ![Go-MySQL-Driver logo](https://raw.github.com/wiki/go-sql-driver/mysql/gomysql_m.png "Golang Gopher holding the MySQL Dolphin")
 ---------------------------------------
@@ -23,4 +23,4 @@
   * [License](#license)
 
 ---------------------------------------
-#特点
+## 特点
