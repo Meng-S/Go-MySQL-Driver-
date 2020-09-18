@@ -27,3 +27,8 @@
 * 轻巧[快速](https://github.com/go-sql-driver/sql-benchmark "golang MySQL-Driver performance")
 * 纯原生golang实现
 * 通过 TCP/IPv4, TCP/IPv6, Unix domain sockets 和[custom protocols](https://godoc.org/github.com/go-sql-driver/mysql#DialFunc)连接
+* 连接中止的自动处理
+* 自动连接池 *(by database/sql package)*
+*支持大于16MB的查询
+*全面支持  [`sql.RawBytes`](https://golang.org/pkg/database/sql/#RawBytes) 
+
